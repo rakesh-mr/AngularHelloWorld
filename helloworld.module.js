@@ -28,3 +28,4 @@ var HelloWorldModule = /** @class */ (function () {
     return HelloWorldModule;
 }());
 exports.HelloWorldModule = HelloWorldModule;
+//# sourceMappingURL=helloworld.module.js.map

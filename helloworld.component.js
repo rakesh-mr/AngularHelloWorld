@@ -21,3 +21,4 @@ var HelloWorldComponent = /** @class */ (function () {
     return HelloWorldComponent;
 }());
 exports.HelloWorldComponent = HelloWorldComponent;
+//# sourceMappingURL=helloworld.component.js.map

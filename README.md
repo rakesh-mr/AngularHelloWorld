@@ -26,7 +26,7 @@ npm install wfm-ng-hello-world --save
 import Hello World Module in root module
 
 ```
-import { HelloWorldModule } from 'wfm-ng-hello-world/helloworld';
+import { HelloWorldModule } from 'wfm-ng-hello-world';
 ```
 
 In the module metadata, import the hello world module.
@@ -56,4 +56,4 @@ ng build --prod
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/rakesh-mr/AngularHelloWorld/blob/origin/license.md) file for details

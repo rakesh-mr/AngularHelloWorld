@@ -5,3 +5,4 @@ function __export(m) {
 Object.defineProperty(exports, "__esModule", { value: true });
 __export(require("./helloworld.module"));
 __export(require("./helloworld.component"));
+//# sourceMappingURL=HelloworldTypes.js.map
