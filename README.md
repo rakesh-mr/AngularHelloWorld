@@ -1,6 +1,6 @@
 # Angular Hello World Component
 
-This is an Angular Component which will display title 'Hello World!', when when used in the angular 5 projects.
+This is an Angular Component which is uploaded in [npmjs.com](https://www.npmjs.com/package/wfm-ng-hello-world). This will display title 'Hello World!', when when used in the angular v5 web applications.
 
 ## Getting Started
 
@@ -51,7 +51,7 @@ ng build --prod
 
 ## Author
 
-* **Rakesh M R** - *Initial work* - [git home](https://github.com/rakesh-mr)
+* **Rakesh M R** - [git home](https://github.com/rakesh-mr)
 
 
 ## License
