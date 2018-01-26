@@ -13,7 +13,11 @@ npm run build
 
 npm should be installed from https://www.npmjs.com/get-npm
 
-run below command to install dependency
+run below commands to install dependency
+```
+npm init
+```
+
 ```
 npm install
 ```
